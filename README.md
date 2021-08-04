@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mayank Shrivastava!
-I'm an Open-Source, Computer Science enthusiast & a junior pursuing my bachelor's in Computer Science & Engineering.
+I'm an Open-Source and Computer Science enthusiast & a junior pursuing my bachelor's in Computer Science & Engineering.
 
 Skills: Java / Python / REACT / JS / HTML / CSS / Nodejs
 
