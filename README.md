@@ -11,3 +11,8 @@ Skills: Java / Python / REACT / JS / HTML / CSS / Nodejs
 
 [![Mayank Shrivastav's github stats](https://github-readme-stats.vercel.app/api?username=Mayank-shrivastava&show_icons=true&theme=radical)]()
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayank-shrivastava" alt="Mayank-shrivastava" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-shrivastava&layout=compact" alt="Mayank-shrivastava" /></p>
+
+
