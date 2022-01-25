@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mayank Shrivastava!
 I'm an Open-Source and Computer Science enthusiast & a junior pursuing my bachelor's in Computer Science & Engineering.
 
-Skills: Java / Python / REACT / JS / HTML / CSS / Nodejs
+Skills: Java / REACT / JS / HTML / CSS / Nodejs
 
 - 🔭 I’m currently working on Full-stack development Using the MERN Stack. 
 - 🌱 I’m currently learning MERN Stack. 
